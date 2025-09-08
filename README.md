@@ -21,7 +21,7 @@
 
 
 # 💫 About Me:
-<br>🛠️ Currently working on: **Web Development**  <br>🤝 Open to collaborate on: **real-world projects, open-source contributions, and innovative ideas**  <br>📚 Learning: **MERN stack, Embedded Systems, DSA, and sharpening problem-solving skills**  <br>🎮 In free time: **exploring games (FPS & story-driven) and tech experiments**  <br>💬 Ask me about: **C++, React, or how I balance coding with electronics**  <br>⚡ Fun fact: **Sometimes I fix bugs by accident... but hey, results matter 😅**  <br>
+<br>🛠️ Currently working on: **Web Development**  <br>🤝 Open to collaborate on: **real-world projects, open-source contributions, and innovative ideas**  <br>📚 Learning: **MERN stack, DSA, and sharpening problem-solving skills**  <br>🎮 In free time: **exploring games (FPS & story-driven) and tech experiments**  <br>💬 Ask me about: **C++, React, or how I balance coding with electronics**  <br>⚡ Fun fact: **Sometimes I fix bugs by accident... but hey, results matter 😅**  <br>
 
 
 ## 🌐 Socials:
@@ -58,7 +58,8 @@
 <!-- databases -->
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+<!-- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  -->
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 
 
