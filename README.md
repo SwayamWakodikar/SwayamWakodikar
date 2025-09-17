@@ -3,7 +3,7 @@
 
 # ⚡ Swayam.exe – Now Booting...
 
-🚀 **Version:** v20.05.2006 (still in beta, occasional bugs included)  
+🚀 **Version:** v08.06.2006 (still in beta, occasional bugs included)  
 💾 **Languages:** C++ / JavaScript / Human-ish  
 ☕ **Powered by:** Coffee, Debugging Tears & Existential Dread  
 
