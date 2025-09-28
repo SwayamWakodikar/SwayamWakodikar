@@ -103,6 +103,7 @@
 </div>
 <br/>
 
+
 <div align = "center">
  <img src= "https://nirzak-streak-stats.vercel.app/?user=SwayamWakodikar&theme=tokyonight&hide_border=false" >
 </div>
@@ -114,7 +115,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SwayamWakodikar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ My Motivation Driving Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
