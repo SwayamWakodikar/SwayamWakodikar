@@ -115,7 +115,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?swayamwakodikar=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ My Motivation Driving Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
