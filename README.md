@@ -109,14 +109,24 @@
  <img src= "https://nirzak-streak-stats.vercel.app/?user=SwayamWakodikar&theme=tokyonight&hide_border=false" >
 </div>
 <br/>
-<div align = "center">
+<!-- <div align = "center">
  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamWakodikar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" >
+</div> -->
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwayamWakodikar&theme=radical" alt="Swayam's Acheivement" />
+</div>
+<div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SwayamWakodikar?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
+</div>
+<div align="center">
+    <img src="https://ghchart.rshah.org/SwayamWakodikar" alt="Swayam's Repos Contributions" />
 </div>
 
 
-
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=SwayamWakodikar)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=SwayamWakodikar&theme=radical&no-frame=true&margin-w=4" alt="Swayam's GitHub Trophies" />
+</div>
 
 ### ✍️ My Motivation Driving Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
