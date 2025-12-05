@@ -121,9 +121,9 @@
 <div align="center">
     <img src="https://ghchart.rshah.org/SwayamWakodikar" alt="Swayam's Repos Contributions" />
 </div>
-<div align="center">
+<!-- <div align="center">
     <img src="https://ghchart.rshah.org/SwayamWakodikar" alt="Swayam's Repos Contributions" />
-</div>
+</div> -->
 <!-- <div align="center">
     ![LeetCode Stats](https://leetcard.jacoblin.cool/swayam_w06?theme=dark&font=Noto%20Sans%20Glagolitic&ext=heatmap)
 </div> -->
