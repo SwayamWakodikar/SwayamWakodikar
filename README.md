@@ -92,6 +92,10 @@
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+# 📊 LeetCode Stats:
+
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/swayam_w06?theme=dark&font=Noto%20Sans%20Glagolitic&ext=heatmap)
+
 
 
 
@@ -127,6 +131,7 @@
 <!-- <div align="center">
     ![LeetCode Stats](https://leetcard.jacoblin.cool/swayam_w06?theme=dark&font=Noto%20Sans%20Glagolitic&ext=heatmap)
 </div> -->
+
 
 
 ## 🏆 GitHub Trophies
