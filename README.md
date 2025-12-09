@@ -99,6 +99,7 @@
 
 
 
+
 # 📊 GitHub Stats:
 
 
@@ -131,6 +132,10 @@
 <!-- <div align="center">
     ![LeetCode Stats](https://leetcard.jacoblin.cool/swayam_w06?theme=dark&font=Noto%20Sans%20Glagolitic&ext=heatmap)
 </div> -->
+<div align ="center">
+ 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SwayamWakodikar&layout=compact&theme=dark)
+</div>
 
 
 
