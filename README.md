@@ -1,27 +1,40 @@
 
 <!-- landing  -->
 
-# ⚡ Swayam.exe – Now Booting...
+# Swayam Wakodikar
+### Backend & DevOps Engineer · Cloud Infrastructure
 
-🚀 **Version:** v08.06.2006 (still in beta, occasional bugs included)  
-💾 **Languages:** C++ / JavaScript / Human-ish  
-☕ **Powered by:** Coffee, Debugging Tears & Existential Dread  
+`v08.06.2006`  |  Open to opportunities  |  Building for scale
 
 ---
 
-## 🌀 Who Am I?  
+> Designing resilient backend systems, automating infrastructure,
+> and delivering cloud-native solutions that hold up in production.
 
-👽 Alien disguised as an Electronics & Communication Engineer (ECE).  
-🧑‍💻 Codes like a wizard, debugs like a detective, Googles like a pro.  
-🛠️ Currently building *“the empire of projects that may or may not explode.”*  
-🎮 Gamer DNA, caffeine bloodstream, headphone enthusiast.  
+---
 
+## About
 
+Backend & DevOps engineer with a focus on building scalable distributed systems,
+containerised workloads, and automated cloud infrastructure.
 
+I work across the full backend lifecycle — from API design and service architecture
+to CI/CD pipeline setup, container orchestration, and cloud provisioning.
+Comfortable operating at the intersection of software engineering and platform reliability.
 
+Currently deepening expertise in **Kubernetes**, **Terraform**, and **AWS/GCP**,
+with a strong interest in system design and distributed systems at scale.
 
-# 💫 About Me:
-<br>🛠️ Currently working on: **Web Development**  <br>🤝 Open to collaborate on: **real-world projects, open-source contributions, and innovative ideas**  <br>📚 Learning: **MERN stack, DSA, and sharpening problem-solving skills**  <br>🎮 In free time: **exploring games (FPS & story-driven) and tech experiments**  <br>💬 Ask me about: **C++, React, or how I balance coding with electronics**  <br>⚡ Fun fact: **Sometimes I fix bugs by accident... but hey, results matter 😅**  <br>
+---
+
+## What I'm working on
+
+- **Focus area:** Backend systems development and cloud infrastructure engineering
+- **Open to:** Collaborating on scalable APIs, open-source DevOps tooling, and cloud-native projects
+- **Currently learning:** Kubernetes, Terraform, AWS/GCP, distributed systems design
+- **Ask me about:** Node.js, REST API design, Docker, CI/CD pipelines, or system observability
+- **Outside work:** Homelab experiments, FPS and story-driven games, and reading about systems
+- **Philosophy:** If it can be automated, it should be. If it can't survive a restart, it's not production-ready.
 
 
 ## 🌐 Socials:
