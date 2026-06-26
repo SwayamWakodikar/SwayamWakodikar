@@ -53,7 +53,7 @@ with a strong interest in system design and distributed systems at scale.
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,kafka&theme=dark)](https://skillicons.dev)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma&theme=dark)](https://skillicons.dev)
 
 ### DevOps & Infrastructure
 [![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,linux,cloudflare&theme=dark)](https://skillicons.dev)
