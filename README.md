@@ -114,7 +114,7 @@ with a strong interest in system design and distributed systems at scale.
 
 ## 🏆 GitHub Trophies
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SwayamWakodikar&theme=radical&no-frame=true&margin-w=4" alt="Swayam's GitHub Trophies" />
+    [<img src="https://github-profile-trophy.vercel.app/?username=SwayamWakodikar&theme=radical&no-frame=true&margin-w=4" alt="Swayam's GitHub Trophies" />](https://github-profile-trophy.vercel.app/?username=SwayamWakodikar&theme=aura)
 </div>
 
 ### ✍️ My Motivation Driving Dev Quote
